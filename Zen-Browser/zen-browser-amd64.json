@@ -1,0 +1,65 @@
+{
+  "version": "https://github.com/LyndsCorp/Casata-Forge/raw/refs/heads/main/external_files/zen-browser/latest/VERSION",
+  "apt": [],
+  "pacman": [],
+  "dnf": [],
+  "pip": [],
+  "casata": [],
+  
+  "external_metadata": true,
+  "release": {
+    "url": "https://github.com/zen-browser/desktop/releases/download/1.21.14b/zen.linux-x86_64.tar.xz"
+  },
+  "guide": [
+    {
+      "file": "AppRun.sh",
+      "dest": "/usr/bin",
+      "name": "zen",
+      "executable": true
+    },
+    {
+      "file": "zen.desktop",
+      "dest": "/usr/share/applications",
+      "name": "zen.desktop"
+    },
+    {
+      "file": "browser/chrome/icons/default/default16.png",
+      "dest": "/usr/share/icons/hicolor/16x16/apps",
+      "name": "zen.png"
+    },
+    {
+      "file": "browser/chrome/icons/default/default32.png",
+      "dest": "/usr/share/icons/hicolor/32x32/apps",
+      "name": "zen.png"
+    },
+    {
+      "file": "browser/chrome/icons/default/default48.png",
+      "dest": "/usr/share/icons/hicolor/48x48/apps",
+      "name": "zen.png"
+    },
+    {
+      "file": "browser/chrome/icons/default/default64.png",
+      "dest": "/usr/share/icons/hicolor/64x64/apps",
+      "name": "zen.png"
+    },
+    {
+      "file": "browser/chrome/icons/default/default128.png",
+      "dest": "/usr/share/icons/hicolor/128x128/apps",
+      "name": "zen.png"
+    }
+  ],
+  "external_files": [
+    "https://github.com/Casata-Forge/main/external_files/zen-browser/latest/VERSION",
+    "https://github.com/Casata-Forge/main/external_files/zen-browser/zen.desktop",
+    "https://github.com/Casata-Forge/main/external_files/zen-browser/AppRun.sh"
+  ],
+
+  "project": "Zen Browser",
+  "is_open_source": true,
+  "source_code": "https://github.com/zen-browser/desktop",
+  "license": "MPL-2.0",
+  "origin": "Zen Browser",
+  "developer": "Todos los contribuidores",
+  "copyright_title": "Todos los contribuidores",
+  "copyright_year": 2026
+}
