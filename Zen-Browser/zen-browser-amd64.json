@@ -49,9 +49,9 @@
     }
   ],
   "external_files": [
-    "https://github.com/Casata-Forge/main/external_files/zen-browser/latest/VERSION",
-    "https://github.com/Casata-Forge/main/external_files/zen-browser/zen.desktop",
-    "https://github.com/Casata-Forge/main/external_files/zen-browser/AppRun.sh"
+    "https://github.com/LyndsCorp/Casata-Forge/main/external_files/zen-browser/latest/VERSION",
+    "https://github.com/LyndsCorp/Casata-Forge/main/external_files/zen-browser/zen.desktop",
+    "https://github.com/LyndsCorp/Casata-Forge/main/external_files/zen-browser/AppRun.sh"
   ],
 
   "project": "Zen Browser",
