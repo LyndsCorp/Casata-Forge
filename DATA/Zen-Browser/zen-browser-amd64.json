@@ -1,5 +1,6 @@
 {
-  "version": "https://github.com/LyndsCorp/Casata-Forge/raw/refs/heads/main/external_files/zen-browser/VERSION",
+  "name": "zen-browser-amd64",
+  "version": "https://raw.githubusercontent.com/LyndsCorp/LyndsFetch/refs/heads/main/VERSION",
   "apt": [],
   "pacman": [],
   "dnf": [],
