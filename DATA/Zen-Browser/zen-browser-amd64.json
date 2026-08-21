@@ -50,7 +50,7 @@
     }
   ],
   "external_files": [
-    "https://raw.githubusercontent.com/LyndsCorp/Casata-Forge/refs/heads/main/external_files/zen-browser/latest/VERSION",
+    "https://raw.githubusercontent.com/LyndsCorp/Casata-Forge/refs/heads/main/external_files/zen-browser/VERSION",
     "https://raw.githubusercontent.com/LyndsCorp/Casata-Forge/refs/heads/main/external_files/zen-browser/zen.desktop",
     "https://raw.githubusercontent.com/LyndsCorp/Casata-Forge/refs/heads/main/external_files/zen-browser/AppRun.sh"
   ],
